@@ -1,6 +1,6 @@
 {
   "name": "yentenjs-lib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Client-side Yenten Coin JavaScript library",
   "main": "./src/index.js",
   "types": "./types/index.d.ts",
