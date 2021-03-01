@@ -1,6 +1,6 @@
 {
   "name": "yentenjs-lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Client-side Yenten Coin JavaScript library",
   "main": "./src/index.js",
   "types": "./types/index.d.ts",
@@ -11,7 +11,7 @@
     "yentenjs",
     "yenten",
     "yentencoin",
-    "yentencoinjs"    
+    "yentencoinjs"
   ],
   "scripts": {
     "build": "npm run clean && tsc -p ./tsconfig.json && npm run formatjs",
